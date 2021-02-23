@@ -10,8 +10,8 @@ Then,
 # Step 1    npm install
 # Step 2    npm start 
 
-username :  User_1
-password : 12345
+# username :  User_1
+# password : 12345
 
 
 
