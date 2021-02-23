@@ -1,9 +1,9 @@
 # S-Chat-Application-Inspired-by-Whatsapp-and-MS_Teams
-This is a Chat application
+This is a Chat application with fully functional features like create chat room(Channels) , Add or remove user , Sound effects when you receive message etc.
 # Link to Deployed App-->   https://s-chat-shivansh.herokuapp.com/
 
 
-Made using Reactjs , Antdesign and many more tools.
+Made using Reactjs , Antdesign , react-chat-engine and many more tools.
 
 To run it in your machine just download it or clone it.
 Then,
